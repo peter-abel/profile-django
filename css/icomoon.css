@@ -2376,6 +2376,9 @@
 .icon-angry2:before {
     content: "\ebac";
 }
+.icon-github:before {
+    content: "\eab0";
+  }
 .icon-evil:before {
     content: "\ebad";
 }
